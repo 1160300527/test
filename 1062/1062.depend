@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492429496 source:h:\c and c++ study\data structures\1062\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+
