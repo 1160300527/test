@@ -1,2 +1,2 @@
-# test
-test for gitup
+# study for c
+C语言的学习
